@@ -2,7 +2,9 @@
 
 This project is a web application built with Laravel 10 for the backend and Vue 3 for the frontend. It implements user authentication with a focus on security and performance. Key features include OTP (One-Time Password) verification for user registration and password recovery, as well as email queue jobs to improve performance.
 
-![To-Do List App](public/login-vue-authentication.gif)
+![Laravel 10 & Vue 3 Authentication Project](public/login-vue-authentication.gif)
+
+[Watch the video](https://tinyurl.com/26j79vee)
 
 ## Features
 
